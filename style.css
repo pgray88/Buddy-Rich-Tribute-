@@ -1,0 +1,51 @@
+#main{
+    background-color: black;
+    color: white;
+  }
+  
+  #title {
+    text-align:center;
+    padding: 20px 0px 0px 0px;
+    font-size: 45px;
+  }
+  
+  h4 { 
+    text-align: center;
+    font-family: "arial";
+  }
+  
+  #img-div {
+    background: grey;
+  }
+  
+  #image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    padding: 10px 5px 0px 5px;
+    margin-right: auto;
+    margin-left: auto;
+    border: 2px solid grey;
+  }
+  
+  #img-caption {
+    text-align: center;
+    font: italic small caps;
+    font-size: 20px;
+    padding: 10px
+  }
+  
+  h2 {
+    text-align: center;
+     font-family: "arial"
+  }
+  
+  p {
+    font-size: 15px;
+    font-family: "arial";
+    margin-left: 10px;
+  }
+  
+  a {
+    color: #00ff00;;
+  }
